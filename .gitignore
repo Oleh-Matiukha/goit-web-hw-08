@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 .idea
 task_1/config.ini
+task_2/config.ini
